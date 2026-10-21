@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Faten Nagy!
 
-<!--
-**nagyfaten92-design/nagyfaten92-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 Graduate in Computer Science / IT
+* 🛠️ Passionate about Web Development & Software Engineering
+* 🚀 Learning new technologies and building awesome projects!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+* **Languages:** HTML5, CSS3, JavaScript
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](رابط_حسابك_في_لينكدإن)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:إيميلك_هنا)
